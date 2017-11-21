@@ -1,0 +1,18 @@
+body {
+    margin-bottom: 80px; 
+    background-image: url("../images/pokeball.png");
+
+}
+
+
+.panel-body {
+    padding-top: 0; 
+}
+
+
+
+.fix{
+    width: 100%;
+    padding: 0px;
+}
+
